@@ -3,6 +3,7 @@
 This project includes several other projects that will be added in the future, the list of current available projects:
 
 * TaskTracker
+* Number_Guessing_Game
 
 ---------------------------------------
 The description of each project is available in its own file.
